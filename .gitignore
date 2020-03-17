@@ -113,6 +113,8 @@ data/
 
 # JetBrains IDEs settings
 .idea/
+.idea
+*.idea
 
 # MS Visual Studio Code (and IonIDE workaround)
 .vscode/
